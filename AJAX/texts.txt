@@ -1,0 +1,2 @@
+const texts =
+  '{ "firstName":"shivam" , "middleName":null , "lastName":"Kumar","DOB":"2001-06-17", "subjects":["CS", "Finance"], "address":{"city":"begusarai","country":"india"}, "display": "function(){console.log(`Function is running in string format in JSON Form `);}"}';

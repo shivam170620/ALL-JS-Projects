@@ -1,0 +1,24 @@
+.btn-container {
+  display: flex;
+
+  justify-content: center;
+
+  align-content: center;
+}
+
+.btn-container > .btn {
+  padding: 10px;
+
+  margin: 10px;
+
+  /* margin: auto; */
+}
+
+h1,
+li {
+  text-align: center;
+
+  padding: 10px;
+
+  margin: 10px;
+}
